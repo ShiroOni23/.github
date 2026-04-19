@@ -18,7 +18,7 @@ A long-term student engineering community for collaborative building, healthy co
 4. Submit progress through PR/review workflow.
 
 ## Community & Support
-- Discord Community Hub: [https://discord.com/channels/1493762812336668744/1493762813657874514](https://discord.com/channels/1493762812336668744/1493762813657874514)
+- Discord Community Hub: [https://discord.gg/HMxmUdWK)
 - For platform issues: contact org admins/instructors.
 
 ## Vision

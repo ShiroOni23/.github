@@ -1,28 +1,25 @@
-# CodeArena 23
+# CodeArena Labs
 
-Welcome to **CodeArena 23** - our collaborative coding arena for student teams.
+A long-term student engineering community for collaborative building, healthy competition, and real project delivery.
 
-## What This Organization Is
-- A structured multi-group coding environment.
-- Each group works in its own protected branch and team scope.
-- Focus is on clean implementation, teamwork, and delivery quality.
+## What We Run
+- Multi-group coding competitions
+- Collaborative software projects
+- Guided implementation challenges
+- Team-based review and iteration cycles
 
-## Active Classroom Repository
+## Current Workspace
 - [`codearena-23`](https://github.com/ShiroOni23/codearena-23)
 
-## How Students Work
-1. Accept organization invite.
-2. Join your assigned `group-gXX` team.
-3. Work only on your assigned `group-gXX` branch.
-4. Push commits and open PRs as instructed.
+## How Participation Works
+1. Join the organization and your assigned team.
+2. Work only in your assigned branch scope.
+3. Build, test, and commit with clear history.
+4. Submit progress through PR/review workflow.
 
-## Ground Rules
-- Do not edit other groups' branches.
-- Keep commits focused and meaningful.
-- Respect deadlines and review feedback.
+## Community & Support
+- Discord Community Hub: [https://discord.com/channels/1493762812336668744/1493762813657874514](https://discord.com/channels/1493762812336668744/1493762813657874514)
+- For platform issues: contact org admins/instructors.
 
-## Need Help?
-Use your team channel or contact instructors/admin.
-
-## Contact
-- Discord: [https://discord.com/channels/1493762812336668744/1493762813657874514](https://discord.com/channels/1493762812336668744/1493762813657874514)
+## Vision
+CodeArena Labs is designed to support repeated cohorts and future competitions, not just a single event.

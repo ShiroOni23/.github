@@ -23,3 +23,6 @@ Welcome to **CodeArena 23** - our collaborative coding arena for student teams.
 
 ## Need Help?
 Use your team channel or contact instructors/admin.
+
+## Contact
+- Discord: [https://discord.com/channels/1493762812336668744/1493762813657874514](https://discord.com/channels/1493762812336668744/1493762813657874514)

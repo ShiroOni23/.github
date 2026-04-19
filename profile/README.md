@@ -23,3 +23,8 @@ A long-term student engineering community for collaborative building, healthy co
 
 ## Vision
 CodeArena Labs is designed to support repeated cohorts and future competitions, not just a single event.
+
+## Cohort Flexibility
+- The current team/branch mapping is for the active cohort only.
+- Future competitions can use a different team structure, branch strategy, and workflow model.
+- Admins should reconfigure teams/permissions per event cycle.
